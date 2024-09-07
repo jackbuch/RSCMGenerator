@@ -2,7 +2,7 @@
 
 Generates `item`, `npc` and `object` RSCM files for use with the [RSCM (RuneScape Config Mapping) - IntelliJ IDEA Plugin](https://github.com/blurite/rscm-plugin).  
 
-Output files for OSRS revision 224.2 can be found in [here](output).
+Output files for OSRS revision 224.2 can be found [here](output).
 
 ## Setup
 - Download the desired OSRS cache from [OpenRS2](https://archive.openrs2.org/) and place it inside the `cache` directory.
